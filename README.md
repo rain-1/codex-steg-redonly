@@ -1,6 +1,6 @@
 # codex-steg-redonly
 
-This repository contains notes and reference utilities for red-only watermarking, including a minimal implementation of the training pipeline described in `watermark_training_notes.md`.
+This repository contains notes and reference utilities for red-only watermarking.
 
 ## Files
 
